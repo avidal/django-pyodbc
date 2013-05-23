@@ -1,3 +1,15 @@
+#############
+DEPRECATED
+
+This fork has been abandoned in favor of https://github.com/aurorasoftware/django-pyodbc/, which contains all fixes from this fork as well as numerous others (including django 1.5 support). It is being actively maintained, and since I no longer work at the organization that required this library, I have no intention of continuing the efforts. Please visit https://github.com/aurorasoftware/django-pyodbc/ for ongoing changes.
+#############
+
+
+#####
+What follows is the original README.txt file.
+#####
+
+
 =============
 django-pyodbc
 =============
